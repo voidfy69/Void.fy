@@ -3,7 +3,7 @@
 [![Version][version-shield]](version-url)
 [![Contributors][contributors-shield]][contributors-url]
 
-[![Forks][forks-shield]][https://github.com/voidfy69/amarok]
+[![Forks][forks-shield]][https://github.com/voidfy69/amarok/fork]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![Support Server][support-shield]][support-server]
